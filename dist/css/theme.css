@@ -1,0 +1,145 @@
+.form-signin
+{
+    max-width: 330px;
+    padding: 15px;
+    margin: 0 auto;
+    padding-top: 5px;
+}
+.form-signin .form-signin-heading, .form-signin .checkbox
+{
+    margin-bottom: 10px;
+}
+.form-signin .checkbox
+{
+    font-weight: normal;
+}
+.form-signin .form-control
+{
+    position: relative;
+    font-size: 16px;
+    height: auto;
+    padding: 10px;
+    -webkit-box-sizing: border-box;
+    -moz-box-sizing: border-box;
+    box-sizing: border-box;
+    margin-bottom: 10px;
+}
+.form-signin .form-control:focus
+{
+    z-index: 2;
+}
+.form-signin input[type="password"]
+{
+    margin-bottom: 10px;
+}
+.account-wall
+{
+    margin-top: 20px;
+    padding: 40px 0px 20px 0px;
+    background-color: #DDDDDD;
+    -moz-box-shadow: 0px 2px 2px rgba(0, 0, 0, 0.3);
+    -webkit-box-shadow: 0px 2px 2px rgba(0, 0, 0, 0.3);
+
+    margin-bottom: 60px;
+}
+.login-title
+{
+    color: #555;
+    font-size: 18px;
+    font-weight: 400;
+    display: block;
+}
+
+.container h1{
+    text-align: center;
+    margin-bottom: 50px;
+}
+
+.button_trainer a{
+    text-decoration: none;
+    color: whi;
+}
+
+#versus{
+    display: inline-block;
+}
+
+.img_size{
+    width: 60%;
+}
+
+.btn-round-lg{
+    border-radius: 22.5px;
+    display: block;
+    margin: auto;
+}
+.btn-round{
+    border-radius: 17px;
+}
+
+.center{
+    text-align: center;
+}
+
+.button_model_1{
+    background-color: #f75652 !important;
+    background-image: linear-gradient(to bottom,#f75652 0,#f75652 100%);
+    border: none;
+}
+
+.button_model_2{
+    background-color: #1face0 !important;
+    background-image: linear-gradient(to bottom,#1face0 0,#1face0 100%);
+    border: none;
+}
+
+.button_model_3{
+    background-color: #f75652 !important;
+    background-image: linear-gradient(to bottom,#f75652 0,#f75652 100%);
+    border: none;
+    width: 100px;
+    text-transform: uppercase;
+}
+
+
+
+body{
+    background: url("../../symphony.png");
+}
+
+th{
+    background-color: #1face0;
+    border: none !important;
+    text-align: center;
+    height: 50px;
+}
+
+
+
+td{
+    background-color: #DDDDDD;
+    border: none !important;
+    text-align: center;
+    height: 50px;
+    font-weight: 300;
+}
+
+.home{
+    background: url("../../pokemon.jpg") no-repeat fixed;
+}
+
+.newHp{
+    font-weight: bold;
+    font-size: 20px;
+    color: #f75652;
+}
+
+.margin_top{
+    margin-top: 60px !important;
+}
+
+.title{
+
+    color: #f75652;
+
+}

@@ -1,0 +1,24 @@
+{
+    "name": "lauraam/pokemon_POO",
+    "require": {
+        "cocur/slugify":   "~1.0",
+        "doctrine/dbal":   "~2.5",
+        "doctrine/orm":    "~2.3",
+        "symfony/console": "~2.5"
+    },
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Laura Micheneau",
+            "email": "micheneau.laura@gmail.com"
+        }
+    ],
+    "autoload": {
+        "psr-4": {
+            "lauraam\\PokemonBattle\\": "src"
+        }
+    },
+    "config": {
+        "bin-dir": "bin"
+    }
+}
